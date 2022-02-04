@@ -6,14 +6,14 @@ Climb your way to the top of your aquariums foodchain by consuming your fishy co
 Make your way through all of your fishy-foes until you are the last fishy standing!
 
 
-## tech stacks
+## Tech stacks
  1. JS(Canvas API)
  2. HTML/JSS
 
 
 ## Wireframe
 see below.
-
+[Wireframe](https://i.ibb.co/TcB4hrK/IMG-5563.jpg)
 
 
 
