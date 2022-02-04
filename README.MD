@@ -1,9 +1,9 @@
 # Fish are food, not friends!
 
 ## Elevator pitch
-Climb your way to the top of your aquariums foodchain by consuming your fishy comrades who are smaller then you so you can grow big and strong to take on the larger fish in the tank. Watch out for falling food from the sky, you can use that to help you on your adventuer but yoou better be quick before another fish gobbles it up first. Watch out for falling debris/garbage/obsticles falling into the tank as well, they will limit your movement and if consumed, will shrink you due to the lack of nutrience.
+Climb your way to the top of your aquarium's foodchain by consuming smaller fish so you can grow big to take on larger fish. Food from the sky, you can use it to help you on your adventure but you better be quick before another fish gobbles it up first. Garbage will also be falling so watch out as if you eat any garbage you will feel malnourished and shrink.
 
-TLDR; grow large enough to eat all of the fish in the tank by first consuming fish smaller than you. Watch out for falling obsticles and falling food.
+Grow large enough to eat all the fish in the tank, and you win!
 
 
 ## Tech stacks
@@ -17,18 +17,20 @@ TLDR; grow large enough to eat all of the fish in the tank by first consuming fi
 
 
 ## MVP goals
-* create a aquarium like screen with a base(sand or dirt or pebbles) 
+* create a gameplay area that objects cannot leave from 
 * create a fish-like character and make it movable
 * create moving and static NPC fish characters of varying speeds and sizes
-* when the player's fish colides with an smaller NPC, the player fish get larger and the NPC disappears
-* have obsticles dropped into the game at set times.
-* have food capsules dropped into the game that if touched by an NPC or the player, the fish grows.
+* when the player's fish collides with a smaller NPC, the player fish get larger and the NPC disappears
+* have garbage blocks dropped into the game that, if touched by an NPC or the player, the fish shrinks 
+* have food blocks dropped into the game that, if touched by an NPC or the player, the fish grows.
 * have a win prompt if all the NPCs are eaten.
-* have a reset button when the player dies.
+* have a lose prompt you are eaten by a larger fish.
+* prompt a reset button when the player wins or loses.
 
 
 ## stretch goals
 * add seaweed or background environment textures
-* add bubbles that come from the fishes mouthes
-* add background music
+* have some NPCs move randomly
+* have obstacles dropped into the tank
+* add bubble sounds when the player fish is moving
 * add a start menu w/ instructions
