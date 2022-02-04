@@ -1,14 +1,14 @@
 # Fish are food, not friends!
 
-## elevator pitch
+## Elevator pitch
 Climb your way to the top of your aquariums foodchain by consuming your fishy comrades who are smaller then you so you can grow big and strong to take on the larger fish in the tank. Watch out for falling food from the sky, you can use that to help you on your adventuer but yoou better be quick before another fish gobbles it up first. Watch out for falling debris/garbage/obsticles falling into the tank as well, they will limit your movement and if consumed, will shrink you due to the lack of nutrience.
 
-Make your way through all of your fishy-foes until you are the last fishy standing!
+TLDR; grow large enough to eat all of the fish in the tank by first consuming fish smaller than you. Watch out for falling obsticles and falling food.
 
 
 ## Tech stacks
  1. JS(Canvas API)
- 2. HTML/JSS
+ 2. HTML/CSS
 
 
 ## Wireframe
