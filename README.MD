@@ -12,8 +12,7 @@ Make your way through all of your fishy-foes until you are the last fishy standi
 
 
 ## Wireframe
-see below.
-[Wireframe](https://i.ibb.co/TcB4hrK/IMG-5563.jpg)
+[click me](https://i.ibb.co/TcB4hrK/IMG-5563.jpg)
 
 
 
